@@ -1,6 +1,6 @@
 # Searchable PDF Client
 
-Kamden Wilson
+By Kamden Wilson
 
 **Searchable PDF Client** is a web app built with Reactjs that allows users to upload and send pdfs to a server that uses an OCR to create a searchable pdf
 
